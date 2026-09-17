@@ -1,1 +1,1 @@
-# java-web-week2
+# week-2-inclass-demo
